@@ -24,7 +24,7 @@ EduChain is a blockchain-powered platform designed to revolutionize how academic
 | Layer              | Technology                              |
 |--------------------|-----------------------------------------|
 | Smart Contracts    | Solidity (ERC-721)                      |
-| Blockchain Network | Ethereum (Mumbai Testnet or Polygon)    |
+| Blockchain Network | Ethereum (Polygon)    |
 | DApp Framework     | Next.js + React                         |
 | Wallet Integration | MetaMask, WalletConnect                 |
 | File Storage       | IPFS (via Web3.Storage or Pinata)       |
